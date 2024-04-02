@@ -11,4 +11,4 @@ SELECT COUNT(*) as "count" FROM pokemons;
 SELECT COUNT(*) as "count" FROM types;
 
 5. How many pokemon have a secondary type?
-
+SELECT COUNT(secondary_type) as "count" FROM pokemons;
