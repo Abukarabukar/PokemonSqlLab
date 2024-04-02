@@ -4,7 +4,7 @@
 * Become proficient selecting data out of a mysql database
 * Become comfortable performing a SQL join
 * Be able to format SQL output as a readable report
-
+1
 ## Instructions
 
 ### Part 1: Importing data
